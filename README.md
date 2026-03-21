@@ -3,3 +3,5 @@
 1. to() from() -> {x, y, duration, delay, rotate, backgroundColor, borderRadius, scale}
 
 2. {color, opacity, stagger(1 by 1), repeat, yoyo}
+
+3. timeline()
