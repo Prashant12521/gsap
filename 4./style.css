@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #111;
+  color: white;
+  font-family: monospace;
+}
+
+#nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 50px;
+}
+
+#part2{
+  display: flex;
+  gap: 50px;
+}
+
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 60px;
+  white-space: nowrap;
+}

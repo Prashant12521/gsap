@@ -5,3 +5,5 @@
 2. {color, opacity, stagger(1 by 1), repeat, yoyo}
 
 3. timeline()
+
+4. timeline() in detail
