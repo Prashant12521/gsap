@@ -7,3 +7,5 @@
 3. timeline()
 
 4. timeline() in detail
+
+5. {scrollTrigger}
