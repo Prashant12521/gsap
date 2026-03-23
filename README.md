@@ -9,3 +9,5 @@
 4. timeline() in detail
 
 5. {scrollTrigger}
+
+6. 7. {scrollTrigger} in detail
