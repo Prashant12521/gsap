@@ -11,3 +11,5 @@
 5. {scrollTrigger}
 
 6. 7. {scrollTrigger} in detail
+
+8. {scrollTrigger:{trigger, scroller, markers, start, end, scrub}}
