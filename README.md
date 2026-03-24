@@ -15,3 +15,5 @@
 8. {scrollTrigger:{trigger, scroller, markers, start, end, scrub}}
 
 9. {scrollTrigger:{pin}}
+
+10. ease with svg line
