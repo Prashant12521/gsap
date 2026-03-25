@@ -18,4 +18,6 @@
 
 10. ease with svg line
 
-11. 11. cursor follow and increase size on image
+11. cursor follow and increase size on image
+
+12. timeline animation for menu
