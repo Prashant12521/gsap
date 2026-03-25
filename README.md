@@ -17,3 +17,5 @@
 9. {scrollTrigger:{pin}}
 
 10. ease with svg line
+
+11. 11. cursor follow and increase size on image
