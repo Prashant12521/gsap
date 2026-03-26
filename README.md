@@ -21,3 +21,5 @@
 11. cursor follow and increase size on image
 
 12. timeline animation for menu
+
+13. text animation
